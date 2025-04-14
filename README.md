@@ -7,6 +7,16 @@
 1. Mention who the leader is.
 1. Other related info (if any)
 
+|    |                          NAME                            |           MATRIC NUMBER          |              MEMBER DESCRIPTION | PHONE NUMBER          | PICTURE           |
+| -- | -------------------------------------------------------- | -------------------------------- | ------------------------------ | --------------------- | ----------------- |
+| 1. | <div align="center">NAME 1</div>      | <div align="center">MATRIC NO 1</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 12 - 3456 7890</div> | <div align="center"><img src="IMAGELINK" alt="IMAGE DESCRIPTION" width="100px"></div> |
+| 2. | <div align="center">NAME 2</div>      | <div align="center">MATRIC NO 2</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 12 - 3456 789</div> | <div align="center"><img src="IMAGELINK" alt="IMAGE DESCRIPTION" width="100px"></div> |
+| 3. | <div align="center">NAME 3</div>      | <div align="center">MATRIC NO 3</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 12 - 3456 789</div> | <div align="center"><img src="IMAGELINK" alt="IMAGE DESCRIPTION" width="100px"></div> 
+| 4. | <div align="center">NAME 4</div>      | <div align="center">MATRIC NO 4</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 12 - 3456 789</div> | <div align="center"><img src="IMAGELINK"  alt="IMAGE DESCRIPTION" width="100px"></div> |
+| 5. | <div align="center">NAME 5</div>      | <div align="center">MATRIC NO 5</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 12 - 3456 789</div> | <div align="center"><img src="IMAGELINK" alt="IMAGE DESCRIPTION" width="100px"></div> |
+| 6. | <div align="center">MUHAMMAD DANIAL BIN MOHD FARIS</div> | <div align="center">294692</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 12 - 451 6452</div> | <div align="center"><img src="https://github.com/user-attachments/assets/13415d47-f128-427e-842d-fc8b3a27a858" alt="MUHAMMAD DANIAL BIN MOHD FARIS (294692)" width="100px"></div> |
+| 7. | <div align="center">SHARWIN A/L PARAMESWARAN</div>       | <div align="center">295026</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 12 - 647 1786</div> | <div align="center"><img src="https://github.com/user-attachments/assets/8ef08b3b-4ea3-4b53-88fb-fcddd9eb182a" alt="SHARWIN A/L PARAMESWARAN (295026)" width="100px"></div> |
+
 ## Title of your application (a unique title)
 ## Abstract (in 300 words)
    1. Background
