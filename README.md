@@ -2,7 +2,7 @@
 ## Requirements for Assignment #1
 [Read the instruction](https://github.com/STIWK2124-A242/class-activity-stiwk2124/blob/main/Assignment-1.md)
 
-## Group WhatsApp
+## WhatsApp Group
 
 [Join WhatsApp Group](https://chat.whatsapp.com/Jo1tFcRylPiKKuvdmfthuh)
 
