@@ -13,7 +13,7 @@
 
 |    |                          NAME                            |           MATRIC NUMBER          |              MEMBER DESCRIPTION | PHONE NUMBER          | PICTURE           |
 | -- | -------------------------------------------------------- | -------------------------------- | ------------------------------ | --------------------- | ----------------- |
-| 1. | <div align="center">NAME 1</div>      | <div align="center">MATRIC NO 1</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 12 - 3456 7890</div> | <div align="center"><img src="IMAGELINK" alt="IMAGE DESCRIPTION" width="100px"></div> |
+| 1. | <div align="center">KU HAZWAN BIN KU IZHAM</div>      | <div align="center">289889</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 19 - 8442357</div> | <div align="center"><img src="IMAGELINK" alt="IMAGE DESCRIPTION" width="100px"></div> |
 | 2. | <div align="center">NAME 2</div>      | <div align="center">Nilam Muhammad Azrilluqman Bin Jaafar</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 19 -7273725</div> | <div align="center"><img src="IMAGELINK" alt="IMAGE DESCRIPTION" width="100px"></div> |
 | 3. | <div align="center">HANA CAROLINA ISMAIL</div>      | <div align="center">289843</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 11 - 37971062</div> | <div align="center"><img src="IMAGELINK" alt="IMAGE DESCRIPTION" width="100px"></div> 
 | 4. | <div align="center">ISKANDAR AZIMAN BIN SAIPUL AZWAN</div>      | <div align="center">284425</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 17-9503627</div> | <div align="center"><img src="IMAGELINK"  alt="IMAGE DESCRIPTION" width="100px"></div> |
