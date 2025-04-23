@@ -44,12 +44,12 @@ Name: ecommerce
 Description: A Spring Boot application for managing e-commerce data with CRUD operations
 Package name: com.assignment1.ecommerce
 Dependencies:
-    Spring Web
-        Spring Data JPA
-    MySQL Driver
-    H2 Database
-        Spring Boot DevTools
-        Lombok
+         Spring Web
+         Spring Data JPA
+         MySQL Driver
+         H2 Database
+         Spring Boot DevTools
+         Lombok
 ```
 
 ## API Endpoints Documentation
