@@ -1,0 +1,6 @@
+.idea/
+.git
+.gitignore
+target/
+*.log
+HELP.md
