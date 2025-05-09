@@ -37,6 +37,23 @@ Qurba Food Industries, established in 2007, is a fully Bumiputera-owned company 
 Qurba Food Industries relies on manual or semi-automated processes for product management, user administration, and sales, which are time-consuming, error-prone, and inefficient. The lack of an online platform restricts the company’s ability to reach a broader customer base, manage inventory effectively, and streamline operations. Without a digital system, tracking user roles (e.g., admin, seller, customer) and product categories is challenging, leading to operational bottlenecks. Additionally, the absence of a scalable e-commerce solution hinders competitiveness in the digital marketplace, where consumers increasingly prefer online purchasing. There is a critical need for a robust, automated platform to manage e-commerce operations, improve customer experience, and enhance operational efficiency for Qurba Food Industries.
 
    4. Main objective
+
+* Develop a Spring Boot-based e-commerce platform for Qurba Food Industries.
+
+* Enable efficient management of users, roles, products, and categories.
+
+* Provide comprehensive CRUD functionality via a RESTful API.
+
+* Support containerized deployment using Docker.
+
+* Ensure scalability and maintainability of the application.
+
+* Streamline product and user management through digitization.
+
+* Enhance customer reach and engagement.
+
+* Contribute to the company’s digital transformation in the competitive food industry.
+
    5. Methodology
    6. Result
    7. Conclusion
