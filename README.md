@@ -402,8 +402,15 @@ curl -X DELETE http://localhost:8080/api/products/1
 ```
 
 ## Link for Docker Image
+docker pull edison0208/ecommerce-app:latest
 
 ## Instructions on how to run the Docker.
+1. Open the Docker Desktop
+2. Clone/Download the github repository / Download docker-compose.yml from repository
+3. Use the command to pull everything from docker (docker pull edison0208/ecommerce-app:latest)
+4. Use the command to start (docker-compose up -d)
+5. Use the application as needed
+6. Use the command to close (docker-compose down)
 
 ## Link for the YouTube Presentation
 
