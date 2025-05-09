@@ -469,6 +469,15 @@ http://localhost:8080/api/roles
 
 ### Categories
 
+**Original Data at :**
+
+```
+http://localhost:8080/api/categories
+```
+
+#### ![Original Data](https://github.com/user-attachments/assets/361de248-2bc3-41c0-b63d-ffd338c8d21e)
+*Description: View original data.*
+
 #### ![Get All Categories](link-to-image) Get All Categories (GET)
 *Description: Retrieve a list of all categories.*
 
