@@ -493,7 +493,7 @@ http://localhost:8080/api/categories
 *Description: Retrieve a list of all categories.*
 
 #### Get Category by ID (GET)  
-![Get Category by ID](link-to-image)  
+![Get Category by ID](https://github.com/user-attachments/assets/57490df7-e308-4621-ad24-86b6ef8dc279)
 *Description: Fetch a category's details using its ID.*
 
 #### Create New Category (POST)  
