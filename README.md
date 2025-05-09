@@ -526,7 +526,7 @@ http://localhost:8080/api/products
 *Description: Retrieve a list of all products.*
 
 #### Get Product by ID (GET)  
-![Get Product by ID](link-to-image)  
+![Get Product by ID](https://github.com/user-attachments/assets/c2e0de52-a97a-41e8-83d4-1c6d2f56c0dd)
 *Description: Fetch a specific product's details using its ID.*
 
 #### Create New Product (POST)  
