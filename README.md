@@ -497,7 +497,7 @@ http://localhost:8080/api/categories
 *Description: Fetch a category's details using its ID.*
 
 #### Create New Category (POST)  
-![Create New Category](link-to-image)  
+![Create New Category](https://github.com/user-attachments/assets/652223e2-7350-443a-bfee-4b5e8f8a83c2)
 *Description: Add a new category to the system.*
 
 #### Update Category by ID (PUT)  
