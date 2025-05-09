@@ -456,7 +456,7 @@ http://localhost:8080/api/roles
 *Description: View original data.*
 
 #### Get All Roles (GET)  
-![Get All Roles](link-to-image)  
+![Get All Roles](https://github.com/user-attachments/assets/07e70fcb-6d02-4e87-a1df-5c5216c71dbe)
 *Description: Retrieve a list of all roles in the system.*
 
 #### Get Role by ID (GET)  
