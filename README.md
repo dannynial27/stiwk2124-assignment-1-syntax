@@ -472,7 +472,7 @@ http://localhost:8080/api/roles
 *Description: Modify the details of a specific role using its ID.*
 
 #### Delete Role by ID (DELETE)  
-![Delete Role by ID](link-to-image)  
+![Delete Role by ID](https://github.com/user-attachments/assets/5fc05792-1b1f-4383-bd46-d5b5280e903f)
 *Description: Remove a role from the system using its ID.*
 
 ---
