@@ -505,7 +505,7 @@ http://localhost:8080/api/categories
 *Description: Modify a specific category's details using its ID.*
 
 #### Delete Category by ID (DELETE)  
-![Delete Category by ID](link-to-image)  
+![Delete Category by ID](https://github.com/user-attachments/assets/9aea985c-2b79-4ffc-a63b-3437d11b21aa)
 *Description: Remove a category from the system using its ID.*
 
 ---
