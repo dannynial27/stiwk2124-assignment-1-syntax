@@ -33,6 +33,9 @@ QurbaMart is a Spring Boot-based e-commerce platform designed to digitize the op
 Qurba Food Industries, established in 2007, is a fully Bumiputera-owned company based in Jitra, Kedah, Malaysia. Registered as Qurba Food Manufacturing Sdn. Bhd. in 2011, it specializes in producing food products such as beverages, snacks, and desserts. Operating from a fixed location at Lot Industri KEDA Napoh, the company has traditionally relied on physical sales channels. With the rapid growth of e-commerce and the increasing demand for digital solutions in the food industry, there is a pressing need for an online platform to manage products, users, and categories efficiently. The absence of a digital system limits scalability, customer reach, and operational efficiency. QurbaMart, a Spring Boot-based e-commerce platform, was developed to address these challenges by providing a robust backend for managing e-commerce operations, enabling Qurba Food Industries to transition into the digital marketplace.
 
    3. Problem Statement (from article)
+
+Qurba Food Industries relies on manual or semi-automated processes for product management, user administration, and sales, which are time-consuming, error-prone, and inefficient. The lack of an online platform restricts the company’s ability to reach a broader customer base, manage inventory effectively, and streamline operations. Without a digital system, tracking user roles (e.g., admin, seller, customer) and product categories is challenging, leading to operational bottlenecks. Additionally, the absence of a scalable e-commerce solution hinders competitiveness in the digital marketplace, where consumers increasingly prefer online purchasing. There is a critical need for a robust, automated platform to manage e-commerce operations, improve customer experience, and enhance operational efficiency for Qurba Food Industries.
+
    4. Main objective
    5. Methodology
    6. Result
