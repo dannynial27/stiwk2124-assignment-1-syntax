@@ -439,7 +439,7 @@ http://localhost:8080/api/users
 *Description: Modify an existing user's information using their unique ID.*
 
 #### Delete User by ID (DELETE)  
-![Delete User by ID](link-to-image)  
+![Delete User by ID](https://github.com/user-attachments/assets/6a7bac9a-84d7-430e-b68d-6076ce06ea82)
 *Description: Remove a user from the system using their ID.*
 
 ---
