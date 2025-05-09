@@ -468,7 +468,7 @@ http://localhost:8080/api/roles
 *Description: Add a new role to the system.*
 
 #### Update Role by ID (PUT)  
-![Update Role by ID](link-to-image)  
+![Update Role by ID](https://github.com/user-attachments/assets/18d74ee6-ce69-4f05-9fdd-393620260cf8)
 *Description: Modify the details of a specific role using its ID.*
 
 #### Delete Role by ID (DELETE)  
