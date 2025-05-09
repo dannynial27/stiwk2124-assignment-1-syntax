@@ -326,13 +326,13 @@ curl http://localhost:8080/api/categories/1
 **Create New Category (POST) :**
 
 ```
-curl -X POST http://localhost:8080/api/categories -H "Content-Type: application/json" -d "{\"name\":\"Books\",\"description\":\"All types of books\"}"
+curl -X POST http://localhost:8080/api/categories -H "Content-Type: application/json" -d "{\"name\": \"Books\", \"description\": \"Books and literature\", \"products\": [{\"name\": \"Novel\", \"description\": \"Bestselling fiction novel\", \"price\": 14.99, \"stockQuantity\": 200, \"imageUrl\": \"novel.jpg\"}]}"
 ```
 
 **Update Category by ID (PUT) :**
 
 ```
-curl -X PUT http://localhost:8080/api/categories/1 -H "Content-Type: application/json" -d "{\"name\":\"Updated Category\",\"description\":\"Updated description\"}"
+curl -X PUT http://localhost:8080/api/categories/3 -H "Content-Type: application/json" -d "{\"id\": 3, \"name\": \"Home & Kitchen\", \"description\": \"Updated home appliances and kitchenware\", \"products\": []}"
 ```
 
 **Delete Category by ID (DELETE) :**
