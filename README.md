@@ -441,6 +441,15 @@ http://localhost:8080/api/users
 
 ### Roles
 
+**Original Data at :**
+
+```
+http://localhost:8080/api/roles
+```
+
+#### ![Original Data](https://github.com/user-attachments/assets/ca2440bc-2639-4273-9ef0-e4740da16c9d)
+*Description: View original data.*
+
 #### ![Get All Roles](link-to-image) Get All Roles (GET)
 *Description: Retrieve a list of all roles in the system.*
 
