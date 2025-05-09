@@ -431,7 +431,7 @@ http://localhost:8080/api/users
 *Description: Fetch details of a specific user based on the ID.*
 
 #### Create New User (POST)  
-![Create New User](link-to-image)  
+![Create New User](https://github.com/user-attachments/assets/a59ce314-bda0-4cbd-8c80-b174c608e7ea)
 *Description: Add a new user to the system.*
 
 #### Update User by ID (PUT)  
