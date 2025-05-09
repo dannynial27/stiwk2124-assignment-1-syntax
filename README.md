@@ -413,115 +413,136 @@ curl -X DELETE http://localhost:8080/api/products/1
 
 ### Users
 
-**Original Data at :**
+**Original Data:** 
 
 ```
 http://localhost:8080/api/users
 ```
 
-#### ![Original Data](https://github.com/user-attachments/assets/58fbd6aa-18b2-44d5-884e-7d80d781265c)
+![Original Data](https://github.com/user-attachments/assets/58fbd6aa-18b2-44d5-884e-7d80d781265c)  
 *Description: View original data.*
 
-#### ![Get All Users](link-to-image) Get All Users (GET)
+#### Get All Users (GET)  
+![Get All Users](link-to-image)  
 *Description: Retrieve all users in the system.*
 
-#### ![Get User by ID](link-to-image) Get User by ID (GET)
+#### Get User by ID (GET)  
+![Get User by ID](link-to-image)  
 *Description: Fetch details of a specific user based on the ID.*
 
-#### ![Create New User](link-to-image) Create New User (POST)
+#### Create New User (POST)  
+![Create New User](link-to-image)  
 *Description: Add a new user to the system.*
 
-#### ![Update User by ID](link-to-image) Update User by ID (PUT)
+#### Update User by ID (PUT)  
+![Update User by ID](link-to-image)  
 *Description: Modify an existing user's information using their unique ID.*
 
-#### ![Delete User by ID](link-to-image) Delete User by ID (DELETE)
+#### Delete User by ID (DELETE)  
+![Delete User by ID](link-to-image)  
 *Description: Remove a user from the system using their ID.*
 
 ---
 
 ### Roles
 
-**Original Data at :**
+**Original Data:**  
 
 ```
 http://localhost:8080/api/roles
 ```
 
-#### ![Original Data](https://github.com/user-attachments/assets/ca2440bc-2639-4273-9ef0-e4740da16c9d)
+![Original Data](https://github.com/user-attachments/assets/ca2440bc-2639-4273-9ef0-e4740da16c9d)  
 *Description: View original data.*
 
-#### ![Get All Roles](link-to-image) Get All Roles (GET)
+#### Get All Roles (GET)  
+![Get All Roles](link-to-image)  
 *Description: Retrieve a list of all roles in the system.*
 
-#### ![Get Role by ID](link-to-image) Get Role by ID (GET)
+#### Get Role by ID (GET)  
+![Get Role by ID](link-to-image)  
 *Description: Fetch details of a specific role using its ID.*
 
-#### ![Create New Role](link-to-image) Create New Role (POST)
+#### Create New Role (POST)  
+![Create New Role](link-to-image)  
 *Description: Add a new role to the system.*
 
-#### ![Update Role by ID](link-to-image) Update Role by ID (PUT)
+#### Update Role by ID (PUT)  
+![Update Role by ID](link-to-image)  
 *Description: Modify the details of a specific role using its ID.*
 
-#### ![Delete Role by ID](link-to-image) Delete Role by ID (DELETE)
+#### Delete Role by ID (DELETE)  
+![Delete Role by ID](link-to-image)  
 *Description: Remove a role from the system using its ID.*
 
 ---
 
 ### Categories
 
-**Original Data at :**
+**Original Data:**  
 
 ```
 http://localhost:8080/api/categories
 ```
 
-#### ![Original Data](https://github.com/user-attachments/assets/361de248-2bc3-41c0-b63d-ffd338c8d21e)
+![Original Data](https://github.com/user-attachments/assets/361de248-2bc3-41c0-b63d-ffd338c8d21e)  
 *Description: View original data.*
 
-#### ![Get All Categories](link-to-image) Get All Categories (GET)
+#### Get All Categories (GET)  
+![Get All Categories](link-to-image)  
 *Description: Retrieve a list of all categories.*
 
-#### ![Get Category by ID](link-to-image) Get Category by ID (GET)
+#### Get Category by ID (GET)  
+![Get Category by ID](link-to-image)  
 *Description: Fetch a category's details using its ID.*
 
-#### ![Create New Category](link-to-image) Create New Category (POST)
+#### Create New Category (POST)  
+![Create New Category](link-to-image)  
 *Description: Add a new category to the system.*
 
-#### ![Update Category by ID](link-to-image) Update Category by ID (PUT)
+#### Update Category by ID (PUT)  
+![Update Category by ID](link-to-image)  
 *Description: Modify a specific category's details using its ID.*
 
-#### ![Delete Category by ID](link-to-image) Delete Category by ID (DELETE)
+#### Delete Category by ID (DELETE)  
+![Delete Category by ID](link-to-image)  
 *Description: Remove a category from the system using its ID.*
 
 ---
 
 ### Products
 
-**Original Data at :**
+**Original Data:**  
 
 ```
-http://localhost:8080/api/categories
+http://localhost:8080/api/products
 ```
 
-#### ![Original Data](https://github.com/user-attachments/assets/a6a30c3b-b4c9-4f67-878b-4a89e43cf9bb)
+![Original Data](https://github.com/user-attachments/assets/a6a30c3b-b4c9-4f67-878b-4a89e43cf9bb)  
 *Description: View original data.*
 
-#### ![Get All Products](link-to-image) Get All Products (GET)
+#### Get All Products (GET)  
+![Get All Products](link-to-image)  
 *Description: Retrieve a list of all products.*
 
-#### ![Get Product by ID](link-to-image) Get Product by ID (GET)
+#### Get Product by ID (GET)  
+![Get Product by ID](link-to-image)  
 *Description: Fetch a specific product's details using its ID.*
 
-#### ![Create New Product](link-to-image) Create New Product (POST)
+#### Create New Product (POST)  
+![Create New Product](link-to-image)  
 *Description: Add a new product to the system.*
 
-#### ![Update Product by ID](link-to-image) Update Product by ID (PUT)
+#### Update Product by ID (PUT)  
+![Update Product by ID](link-to-image)  
 *Description: Modify the details of a specific product using its ID.*
 
-#### ![Delete Product by ID](link-to-image) Delete Product by ID (DELETE)
+#### Delete Product by ID (DELETE)  
+![Delete Product by ID](link-to-image)  
 *Description: Remove a product from the system using its ID.*
 
 ---
+
 
 ## References (Not less than 10)
 
