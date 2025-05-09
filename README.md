@@ -546,3 +546,18 @@ http://localhost:8080/api/products
 
 ## References (Not less than 10)
 
+1. Baeldung, & Baeldung. (2024, February 14). Learn Spring Boot Series | Baeldung. Baeldung. https://www.baeldung.com/spring-boot
+2. “Home.” (2025, February 27). Docker Documentation. https://docs.docker.com/
+3. GitHub.com help documentation. (n.d.). GitHub Docs. https://docs.github.com/
+4. H2 Database Engine. (n.d.). http://www.h2database.com/html/main.html
+5. IntelliJ IDEA | Resources. (2021, June 1). JetBrains. https://www.jetbrains.com/idea/documentation/
+6. Van Zyl, J., & Redmond, E. (2009, August 1). Maven Documentation – Maven. https://maven.apache.org/guides/
+7. MySQL :: MySQL Documentation. (n.d.). https://dev.mysql.com/doc/
+8. Java Documentation - Get started. (2023, January 31). Oracle Help Center. https://docs.oracle.com/en/java/
+9. Postman: The world’s leading API platform | Sign up for free. (n.d.). Postman API Platform. https://www.postman.com/
+10. Spring boot :: Spring boot. (n.d.). https://docs.spring.io/spring-boot/docs/current/reference/html/
+11. Spring Data JPA :: Spring Data JPA. (n.d.). https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
+12. Porter, B., Van Zyl, J., & Lamy, O. (n.d.). Welcome to Apache Maven – Maven. https://maven.apache.org/
+13. What is Docker? (n.d.). https://www.redhat.com/en/topics/containers/what-is-docker
+14. GmbH, F. P. J. H. S. S. L. V. 2.-. 2. V. (n.d.). Spring Boot - tutorial. https://www.vogella.com/tutorials/SpringBoot/article.html
+15. SudheeshGH. (n.d.). Azure Database for MySQL documentation. Microsoft Learn. https://learn.microsoft.com/en-us/azure/mysql/
