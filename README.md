@@ -497,6 +497,15 @@ http://localhost:8080/api/categories
 
 ### Products
 
+**Original Data at :**
+
+```
+http://localhost:8080/api/categories
+```
+
+#### ![Original Data](https://github.com/user-attachments/assets/a6a30c3b-b4c9-4f67-878b-4a89e43cf9bb)
+*Description: View original data.*
+
 #### ![Get All Products](link-to-image) Get All Products (GET)
 *Description: Retrieve a list of all products.*
 
