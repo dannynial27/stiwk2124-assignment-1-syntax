@@ -423,7 +423,7 @@ http://localhost:8080/api/users
 *Description: View original data.*
 
 #### Get All Users (GET)  
-![Get All Users](link-to-image)  
+![Get All Users](https://github.com/user-attachments/assets/e28fad2f-71db-4173-b071-bfde909ca4d3)
 *Description: Retrieve all users in the system.*
 
 #### Get User by ID (GET)  
