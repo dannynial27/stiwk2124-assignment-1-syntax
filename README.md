@@ -435,7 +435,7 @@ http://localhost:8080/api/users
 *Description: Add a new user to the system.*
 
 #### Update User by ID (PUT)  
-![Update User by ID](link-to-image)  
+![Update User by ID](https://github.com/user-attachments/assets/8a00736b-6286-4477-9c7f-5ce74695d6bc)
 *Description: Modify an existing user's information using their unique ID.*
 
 #### Delete User by ID (DELETE)  
