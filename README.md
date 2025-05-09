@@ -464,7 +464,7 @@ http://localhost:8080/api/roles
 *Description: Fetch details of a specific role using its ID.*
 
 #### Create New Role (POST)  
-![Create New Role](link-to-image)  
+![Create New Role](https://github.com/user-attachments/assets/09cf7740-747e-4922-a0ca-800991d3898d)
 *Description: Add a new role to the system.*
 
 #### Update Role by ID (PUT)  
