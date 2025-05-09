@@ -522,7 +522,7 @@ http://localhost:8080/api/products
 *Description: View original data.*
 
 #### Get All Products (GET)  
-![Get All Products](link-to-image)  
+![Get All Products](https://github.com/user-attachments/assets/3b11baca-a936-4e6f-90d0-8cdae2e27425)
 *Description: Retrieve a list of all products.*
 
 #### Get Product by ID (GET)  
