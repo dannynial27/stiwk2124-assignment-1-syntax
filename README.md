@@ -405,7 +405,7 @@ curl -X DELETE http://localhost:8080/api/products/1
 
 ## Instructions on how to run the Docker.
 
-## link for the YouTube Presentation
+## Link for the YouTube Presentation
 
 ## Result/Output (Screenshot of the output)
 
