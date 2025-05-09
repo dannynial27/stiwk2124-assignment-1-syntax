@@ -64,6 +64,15 @@ The development of QurbaMart followed a structured approach:
  • Testing: The REST API was tested using Postman to verify CRUD operations. Database connectivity was validated with both H2 and MySQL. Docker containers were tested using docker-compose up to ensure proper deployment.
 
    6. Result
+
+QurbaMart achieved the following outcomes:
+ • REST API: A fully functional REST API with endpoints for managing users, roles, products, and categories (e.g., GET /api/products, POST /api/users), tested successfully using Postman.
+ • Database: A relational database with sample data, accessible via H2 for development and MySQL for production, ensuring data persistence.
+ • Containerization: A Docker image (yourdockerhubusername/qurba-ecommerce) hosted on Docker Hub, with a docker-compose.yml file enabling seamless deployment of the application and MySQL.
+ • Version Control: All source code, SQL scripts, and Docker configurations are hosted on GitHub, adhering to the specified folder structure.
+ • Testing: Postman tests confirmed successful CRUD operations, with screenshots included in the README for documentation.
+ • Deployment: The application is accessible at http://localhost:8080, with Docker ensuring portability and scalability across environments.
+
    7. Conclusion
 
 ## Spring Boot Project
