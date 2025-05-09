@@ -427,7 +427,7 @@ http://localhost:8080/api/users
 *Description: Retrieve all users in the system.*
 
 #### Get User by ID (GET)  
-![Get User by ID](link-to-image)  
+![Get User by ID](https://github.com/user-attachments/assets/25490532-0f7f-4370-b8d4-0e2a5cafb36d)
 *Description: Fetch details of a specific user based on the ID.*
 
 #### Create New User (POST)  
