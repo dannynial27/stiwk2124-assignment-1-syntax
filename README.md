@@ -24,58 +24,115 @@
 ## Title of your application (a unique title) : QurbaMart: E-commerce Platform for Qurba Food Industries
 
 ## Abstract (in 300 words)
-   1.Introduction
 
-QurbaMart is a Spring Boot-based e-commerce platform designed to digitize the operations of Qurba Food Industries, a Malaysian Bumiputera-owned company established in 2007, specializing in food products. The application addresses the need for an efficient online system to manage users, roles, products, and categories, enabling seamless CRUD operations through a RESTful API. The backend leverages Spring Boot with Spring Data JPA for data persistence, supporting MySQL for production and H2 for development. The database schema includes tables for users, roles, products, and categories, with sample data to simulate real-world scenarios. Git and GitHub ensure version control, while Maven manages dependencies. Docker containerizes the application and MySQL database, facilitating scalable deployment, with the Docker image hosted on Docker Hub. The methodology involves designing a relational database, developing a layered Spring Boot architecture (model, repository, service, controller), and deploying the application using Docker Compose. The application was tested using Postman, confirming successful CRUD operations. Results demonstrate a functional REST API, accessible at http://localhost:8080, with endpoints for managing e-commerce entities. The containerized deployment ensures portability and scalability. QurbaMart addresses the problem of manual processes in traditional commerce by providing a robust digital platform, enhancing operational efficiency and customer reach. The main objective is to streamline Qurba Food Industries’ product management and user administration. In conclusion, QurbaMart offers a scalable, maintainable solution for e-commerce, with potential for future enhancements like user authentication and payment integration. The project showcases the application of modern backend technologies to solve real-world business challenges, aligning with the digital transformation goals of small and medium enterprises in the food industry.
+1. **Introduction**
 
-   2. Background
+   **QurbaMart** is a Spring Boot-based e-commerce platform designed to digitize the operations of **Qurba Food Industries**, a Malaysian Bumiputera-owned company established in 2007, specializing in food products. The application addresses the need for an efficient online system to manage users, roles, products, and categories, enabling seamless CRUD operations through a RESTful API.
 
-Qurba Food Industries, established in 2007, is a fully Bumiputera-owned company based in Jitra, Kedah, Malaysia. Registered as Qurba Food Manufacturing Sdn. Bhd. in 2011, it specializes in producing food products such as beverages, snacks, and desserts. Operating from a fixed location at Lot Industri KEDA Napoh, the company has traditionally relied on physical sales channels. With the rapid growth of e-commerce and the increasing demand for digital solutions in the food industry, there is a pressing need for an online platform to manage products, users, and categories efficiently. The absence of a digital system limits scalability, customer reach, and operational efficiency. QurbaMart, a Spring Boot-based e-commerce platform, was developed to address these challenges by providing a robust backend for managing e-commerce operations, enabling Qurba Food Industries to transition into the digital marketplace.
+   The backend leverages **Spring Boot** with **Spring Data JPA** for data persistence, supporting **MySQL** for production and **H2** for development. The database schema includes tables for users, roles, products, and categories, with sample data to simulate real-world scenarios. **Git** and **GitHub** ensure version control, while **Maven** manages dependencies.
 
-   3. Problem Statement (from article)
+   **Docker** containerizes the application and MySQL database, facilitating scalable deployment, with the Docker image hosted on Docker Hub. The methodology involves designing a relational database, developing a layered Spring Boot architecture (model, repository, service, controller), and deploying the application using Docker Compose. The application was tested using **Postman**, confirming successful CRUD operations.
 
-Qurba Food Industries relies on manual or semi-automated processes for product management, user administration, and sales, which are time-consuming, error-prone, and inefficient. The lack of an online platform restricts the company’s ability to reach a broader customer base, manage inventory effectively, and streamline operations. Without a digital system, tracking user roles (e.g., admin, seller, customer) and product categories is challenging, leading to operational bottlenecks. Additionally, the absence of a scalable e-commerce solution hinders competitiveness in the digital marketplace, where consumers increasingly prefer online purchasing. There is a critical need for a robust, automated platform to manage e-commerce operations, improve customer experience, and enhance operational efficiency for Qurba Food Industries.
+   Results demonstrate a functional REST API, accessible at `http://localhost:8080`, with endpoints for managing e-commerce entities. The containerized deployment ensures portability and scalability. QurbaMart addresses the problem of manual processes in traditional commerce by providing a robust digital platform, enhancing operational efficiency and customer reach.
 
-   4. Main objective
+   The main objective is to streamline Qurba Food Industries’ product management and user administration. In conclusion, QurbaMart offers a scalable, maintainable solution for e-commerce, with potential for future enhancements like user authentication and payment integration. The project showcases the application of modern backend technologies to solve real-world business challenges, aligning with the digital transformation goals of small and medium enterprises in the food industry.
 
-* Develop a Spring Boot-based e-commerce platform for Qurba Food Industries.
+---
 
-* Enable efficient management of users, roles, products, and categories.
+2. **Background**
 
-* Provide comprehensive CRUD functionality via a RESTful API.
+   Qurba Food Industries, established in 2007, is a fully Bumiputera-owned company based in Jitra, Kedah, Malaysia. Registered as **Qurba Food Manufacturing Sdn. Bhd.** in 2011, it specializes in producing food products such as beverages, snacks, and desserts.
 
-* Support containerized deployment using Docker.
+   Operating from a fixed location at Lot Industri KEDA Napoh, the company has traditionally relied on physical sales channels. With the rapid growth of e-commerce and the increasing demand for digital solutions in the food industry, there is a pressing need for an online platform to manage products, users, and categories efficiently.
 
-* Ensure scalability and maintainability of the application.
+   The absence of a digital system limits scalability, customer reach, and operational efficiency. **QurbaMart**, a Spring Boot-based e-commerce platform, was developed to address these challenges by providing a robust backend for managing e-commerce operations, enabling Qurba Food Industries to transition into the digital marketplace.
 
-* Streamline product and user management through digitization.
+---
 
-* Enhance customer reach and engagement.
+3. **Problem Statement**
 
-* Contribute to the company’s digital transformation in the competitive food industry.
+   Qurba Food Industries relies on manual or semi-automated processes for product management, user administration, and sales, which are time-consuming, error-prone, and inefficient.
 
-   5. Methodology
+   The lack of an online platform restricts the company’s ability to:
 
-The development of QurbaMart followed a structured approach:
- • Database Design: A relational database was designed with four tables: user, role, product, and category. SQL scripts (create_and_insert.sql) were created to define the schema and insert three sample records per table. MySQL was configured for production, and H2 was used for development, with settings specified in application.properties.
- • Application Development: A Spring Boot application was developed using Maven for dependency management. The codebase was organized into layers: model (entity classes), repository (JPA interfaces), service (business logic), and controller (REST endpoints). CRUD operations were implemented for all entities, accessible via endpoints like /api/products and /api/users. IntelliJ IDEA was used for coding, testing, and debugging.
- • Version Control: A Git repository was initialized and hosted on GitHub. Changes were committed regularly, adhering to the specified folder structure (src, sql, etc.).
- • Containerization: A Dockerfile was created to build a Docker image of the Spring Boot application. A docker-compose.yml file was used to orchestrate the application and MySQL containers. The Docker image was pushed to Docker Hub for public access.
- • Testing: The REST API was tested using Postman to verify CRUD operations. Database connectivity was validated with both H2 and MySQL. Docker containers were tested using docker-compose up to ensure proper deployment.
+   - Reach a broader customer base
+   - Manage inventory effectively
+   - Streamline operations
 
-   6. Result
+   Without a digital system, tracking user roles (e.g., admin, seller, customer) and product categories is challenging, leading to operational bottlenecks. Additionally, the absence of a scalable e-commerce solution hinders competitiveness in the digital marketplace. There is a critical need for a robust, automated platform to:
 
-QurbaMart achieved the following outcomes:
- • REST API: A fully functional REST API with endpoints for managing users, roles, products, and categories (e.g., GET /api/products, POST /api/users), tested successfully using Postman.
- • Database: A relational database with sample data, accessible via H2 for development and MySQL for production, ensuring data persistence.
- • Containerization: A Docker image (yourdockerhubusername/qurba-ecommerce) hosted on Docker Hub, with a docker-compose.yml file enabling seamless deployment of the application and MySQL.
- • Version Control: All source code, SQL scripts, and Docker configurations are hosted on GitHub, adhering to the specified folder structure.
- • Testing: Postman tests confirmed successful CRUD operations, with screenshots included in the README for documentation.
- • Deployment: The application is accessible at http://localhost:8080, with Docker ensuring portability and scalability across environments.
+   - Manage e-commerce operations
+   - Improve customer experience
+   - Enhance operational efficiency
 
-   7. Conclusion
+---
 
-QurbaMart successfully addresses the digital transformation needs of Qurba Food Industries by providing a scalable and maintainable e-commerce platform. The Spring Boot application, with its RESTful API and containerized deployment, streamlines product and user management, overcoming the inefficiencies of manual processes. The use of modern technologies, including Spring Boot, Docker, and Git, ensures robustness, portability, and flexibility. The project demonstrates the practical application of backend development concepts, offering a replicable model for small and medium enterprises seeking to establish an online presence. Future enhancements could include user authentication, payment gateways, and a frontend interface to further improve user experience. QurbaMart aligns with the digital transformation goals of the food industry, positioning Qurba Food Industries for growth in the competitive e-commerce landscape.
+4. **Main Objective**
+
+   - Develop a Spring Boot-based e-commerce platform for Qurba Food Industries  
+   - Enable efficient management of users, roles, products, and categories  
+   - Provide comprehensive CRUD functionality via a RESTful API  
+   - Support containerized deployment using Docker  
+   - Ensure scalability and maintainability of the application  
+   - Streamline product and user management through digitization  
+   - Enhance customer reach and engagement  
+   - Contribute to the company’s digital transformation in the competitive food industry  
+
+---
+
+5. **Methodology**
+
+   The development of QurbaMart followed a structured approach:
+
+   - **Database Design**: Designed a relational database with four tables: `user`, `role`, `product`, and `category`. SQL scripts (`create_and_insert.sql`) were created for schema definition and inserting three sample records per table. **MySQL** was used for production, and **H2** was used for development. Configuration was set in `application.properties`.
+   
+   - **Application Development**: Developed a Spring Boot application using **Maven** for dependency management. The codebase was organized into layers:
+     - **Model**: entity classes
+     - **Repository**: JPA interfaces
+     - **Service**: business logic
+     - **Controller**: REST endpoints
+     CRUD operations were implemented for all entities, accessible via endpoints like `/api/products` and `/api/users`. **IntelliJ IDEA** was used for coding, testing, and debugging.
+
+   - **Version Control**: A **Git** repository was initialized and hosted on **GitHub**, with changes committed regularly. The project adhered to the specified folder structure (`src`, `sql`, etc.).
+
+   - **Containerization**: A `Dockerfile` was created to build a Docker image of the Spring Boot application. A `docker-compose.yml` file was used to orchestrate the application and MySQL containers. The Docker image was pushed to **Docker Hub** for public access.
+
+   - **Testing**: CRUD operations were tested using **Postman**. Database connectivity was validated with both **H2** and **MySQL**. The deployment was tested with `docker-compose up` to ensure proper containerized deployment.
+
+---
+
+6. **Result**
+
+   QurbaMart achieved the following outcomes:
+
+   - **REST API**: A fully functional REST API with endpoints for managing users, roles, products, and categories (e.g., `GET /api/products`, `POST /api/users`). All endpoints were tested successfully using Postman.
+   
+   - **Database**: A relational database with sample data, accessible via **H2** for development and **MySQL** for production, ensuring data persistence.
+   
+   - **Containerization**: A Docker image (`yourdockerhubusername/qurba-ecommerce`) hosted on Docker Hub, with the `docker-compose.yml` file enabling seamless deployment of the application and MySQL database.
+   
+   - **Version Control**: All source code, SQL scripts, and Docker configurations were hosted on **GitHub**, adhering to the specified folder structure.
+   
+   - **Testing**: Postman tests confirmed successful CRUD operations, with screenshots included in the README for documentation.
+   
+   - **Deployment**: The application is accessible at `http://localhost:8080`, with Docker ensuring portability and scalability across environments.
+
+---
+
+7. **Conclusion**
+
+   QurbaMart successfully addresses the digital transformation needs of Qurba Food Industries by providing a scalable and maintainable e-commerce platform. The Spring Boot application, with its RESTful API and containerized deployment, streamlines product and user management, overcoming the inefficiencies of manual processes.
+
+   Leveraging modern technologies like **Spring Boot**, **Docker**, and **Git**, the project demonstrates robustness, portability, and flexibility. It showcases the practical application of backend development principles, offering a replicable model for small and medium enterprises (SMEs) transitioning to the digital economy.
+
+   **Future Enhancements**:
+
+   - User authentication
+   - Payment gateway integration
+   - Frontend interface for end users
+
+   **QurbaMart** aligns with the digital transformation goals of the food industry, positioning **Qurba Food Industries** for growth in the competitive e-commerce landscape.
+
 
 ## Spring Boot Project
 
