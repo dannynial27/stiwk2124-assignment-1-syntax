@@ -409,5 +409,83 @@ curl -X DELETE http://localhost:8080/api/products/1
 
 ## Result/Output (Screenshot of the output)
 
+---
+
+### Users
+
+#### ![Get All Users](link-to-image) Get All Users (GET)
+*Description: Retrieve all users in the system.*
+
+#### ![Get User by ID](link-to-image) Get User by ID (GET)
+*Description: Fetch details of a specific user based on the ID.*
+
+#### ![Create New User](link-to-image) Create New User (POST)
+*Description: Add a new user to the system.*
+
+#### ![Update User by ID](link-to-image) Update User by ID (PUT)
+*Description: Modify an existing user's information using their unique ID.*
+
+#### ![Delete User by ID](link-to-image) Delete User by ID (DELETE)
+*Description: Remove a user from the system using their ID.*
+
+---
+
+### Roles
+
+#### ![Get All Roles](link-to-image) Get All Roles (GET)
+*Description: Retrieve a list of all roles in the system.*
+
+#### ![Get Role by ID](link-to-image) Get Role by ID (GET)
+*Description: Fetch details of a specific role using its ID.*
+
+#### ![Create New Role](link-to-image) Create New Role (POST)
+*Description: Add a new role to the system.*
+
+#### ![Update Role by ID](link-to-image) Update Role by ID (PUT)
+*Description: Modify the details of a specific role using its ID.*
+
+#### ![Delete Role by ID](link-to-image) Delete Role by ID (DELETE)
+*Description: Remove a role from the system using its ID.*
+
+---
+
+### Categories
+
+#### ![Get All Categories](link-to-image) Get All Categories (GET)
+*Description: Retrieve a list of all categories.*
+
+#### ![Get Category by ID](link-to-image) Get Category by ID (GET)
+*Description: Fetch a category's details using its ID.*
+
+#### ![Create New Category](link-to-image) Create New Category (POST)
+*Description: Add a new category to the system.*
+
+#### ![Update Category by ID](link-to-image) Update Category by ID (PUT)
+*Description: Modify a specific category's details using its ID.*
+
+#### ![Delete Category by ID](link-to-image) Delete Category by ID (DELETE)
+*Description: Remove a category from the system using its ID.*
+
+---
+
+### Products
+
+#### ![Get All Products](link-to-image) Get All Products (GET)
+*Description: Retrieve a list of all products.*
+
+#### ![Get Product by ID](link-to-image) Get Product by ID (GET)
+*Description: Fetch a specific product's details using its ID.*
+
+#### ![Create New Product](link-to-image) Create New Product (POST)
+*Description: Add a new product to the system.*
+
+#### ![Update Product by ID](link-to-image) Update Product by ID (PUT)
+*Description: Modify the details of a specific product using its ID.*
+
+#### ![Delete Product by ID](link-to-image) Delete Product by ID (DELETE)
+*Description: Remove a product from the system using its ID.*
+
+---
+
 ## References (Not less than 10)
 
