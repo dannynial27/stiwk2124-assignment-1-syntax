@@ -24,12 +24,16 @@
 ## Title of your application (a unique title) : QurbaMart: E-commerce Platform for Qurba Food Industries
 
 ## Abstract (in 300 words)
-   1. Background
-   2. Problem Statement (from article)
-   3. Main objective
-   4. Methodology
-   5. Result
-   6. Conclusion
+   1.Introduction
+
+      QurbaMart is a Spring Boot-based e-commerce platform designed to digitize the operations of Qurba Food Industries, a Malaysian Bumiputera-owned company established in 2007, specializing in food products. The application addresses the need for an efficient online system to manage users, roles, products, and categories, enabling seamless CRUD operations through a RESTful API. The backend leverages Spring Boot with Spring Data JPA for data persistence, supporting MySQL for production and H2 for development. The database schema includes tables for users, roles, products, and categories, with sample data to simulate real-world scenarios. Git and GitHub ensure version control, while Maven manages dependencies. Docker containerizes the application and MySQL database, facilitating scalable deployment, with the Docker image hosted on Docker Hub. The methodology involves designing a relational database, developing a layered Spring Boot architecture (model, repository, service, controller), and deploying the application using Docker Compose. The application was tested using Postman, confirming successful CRUD operations. Results demonstrate a functional REST API, accessible at http://localhost:8080, with endpoints for managing e-commerce entities. The containerized deployment ensures portability and scalability. QurbaMart addresses the problem of manual processes in traditional commerce by providing a robust digital platform, enhancing operational efficiency and customer reach. The main objective is to streamline Qurba Food Industries’ product management and user administration. In conclusion, QurbaMart offers a scalable, maintainable solution for e-commerce, with potential for future enhancements like user authentication and payment integration. The project showcases the application of modern backend technologies to solve real-world business challenges, aligning with the digital transformation goals of small and medium enterprises in the food industry.
+
+   2. Background
+   3. Problem Statement (from article)
+   4. Main objective
+   5. Methodology
+   6. Result
+   7. Conclusion
 
 ## Spring Boot Project
 
