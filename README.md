@@ -530,7 +530,7 @@ http://localhost:8080/api/products
 *Description: Fetch a specific product's details using its ID.*
 
 #### Create New Product (POST)  
-![Create New Product](link-to-image)  
+![Create New Product](https://github.com/user-attachments/assets/27b55910-ee52-4875-85c1-866125cfbc0b)
 *Description: Add a new product to the system.*
 
 #### Update Product by ID (PUT)  
