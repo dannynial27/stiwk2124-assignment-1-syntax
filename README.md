@@ -538,7 +538,7 @@ http://localhost:8080/api/products
 *Description: Modify the details of a specific product using its ID.*
 
 #### Delete Product by ID (DELETE)  
-![Delete Product by ID](link-to-image)  
+![Delete Product by ID](https://github.com/user-attachments/assets/daba8e7c-0f7b-475c-8348-762584c7cd46)
 *Description: Remove a product from the system using its ID.*
 
 ---
