@@ -501,7 +501,7 @@ http://localhost:8080/api/categories
 *Description: Add a new category to the system.*
 
 #### Update Category by ID (PUT)  
-![Update Category by ID](link-to-image)  
+![Update Category by ID](https://github.com/user-attachments/assets/c3f254a3-24c2-48e6-936d-6c06fdbb9788)
 *Description: Modify a specific category's details using its ID.*
 
 #### Delete Category by ID (DELETE)  
