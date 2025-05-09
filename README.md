@@ -413,6 +413,15 @@ curl -X DELETE http://localhost:8080/api/products/1
 
 ### Users
 
+**Original Data at :**
+
+```
+http://localhost:8080/api/users
+```
+
+#### ![Original Data](https://github.com/user-attachments/assets/58fbd6aa-18b2-44d5-884e-7d80d781265c)
+*Description: View original data.*
+
 #### ![Get All Users](link-to-image) Get All Users (GET)
 *Description: Retrieve all users in the system.*
 
