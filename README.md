@@ -534,7 +534,7 @@ http://localhost:8080/api/products
 *Description: Add a new product to the system.*
 
 #### Update Product by ID (PUT)  
-![Update Product by ID](link-to-image)  
+![Update Product by ID](https://github.com/user-attachments/assets/ca06d61d-8fda-4ffa-9510-c519786dd532)
 *Description: Modify the details of a specific product using its ID.*
 
 #### Delete Product by ID (DELETE)  
