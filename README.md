@@ -460,7 +460,7 @@ http://localhost:8080/api/roles
 *Description: Retrieve a list of all roles in the system.*
 
 #### Get Role by ID (GET)  
-![Get Role by ID](link-to-image)  
+![Get Role by ID](https://github.com/user-attachments/assets/e860a67d-cab9-451f-a131-b44b5b20dde0)
 *Description: Fetch details of a specific role using its ID.*
 
 #### Create New Role (POST)  
