@@ -489,7 +489,7 @@ http://localhost:8080/api/categories
 *Description: View original data.*
 
 #### Get All Categories (GET)  
-![Get All Categories](link-to-image)  
+![Get All Categories](https://github.com/user-attachments/assets/3b72c11a-6cce-422a-87cd-f2f8eb5bdf59)
 *Description: Retrieve a list of all categories.*
 
 #### Get Category by ID (GET)  
