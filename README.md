@@ -55,6 +55,14 @@ Qurba Food Industries relies on manual or semi-automated processes for product m
 * Contribute to the company’s digital transformation in the competitive food industry.
 
    5. Methodology
+
+The development of QurbaMart followed a structured approach:
+ • Database Design: A relational database was designed with four tables: user, role, product, and category. SQL scripts (create_and_insert.sql) were created to define the schema and insert three sample records per table. MySQL was configured for production, and H2 was used for development, with settings specified in application.properties.
+ • Application Development: A Spring Boot application was developed using Maven for dependency management. The codebase was organized into layers: model (entity classes), repository (JPA interfaces), service (business logic), and controller (REST endpoints). CRUD operations were implemented for all entities, accessible via endpoints like /api/products and /api/users. IntelliJ IDEA was used for coding, testing, and debugging.
+ • Version Control: A Git repository was initialized and hosted on GitHub. Changes were committed regularly, adhering to the specified folder structure (src, sql, etc.).
+ • Containerization: A Dockerfile was created to build a Docker image of the Spring Boot application. A docker-compose.yml file was used to orchestrate the application and MySQL containers. The Docker image was pushed to Docker Hub for public access.
+ • Testing: The REST API was tested using Postman to verify CRUD operations. Database connectivity was validated with both H2 and MySQL. Docker containers were tested using docker-compose up to ensure proper deployment.
+
    6. Result
    7. Conclusion
 
