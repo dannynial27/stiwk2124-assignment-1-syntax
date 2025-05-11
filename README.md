@@ -427,7 +427,7 @@ docker-compose down
 
 ## Link for the YouTube Presentation
 
-[STIWK2124 WEB ENGINEERING ASSIGNMENT 1 PRESENTATION (GROUP SYNTAX)](https://youtu.be/i3CXw8NNk2s)
+[STIWK2124 WEB ENGINEERING ASSIGNMENT 1 PRESENTATION (GROUP SYNTAX)](https://youtu.be/HNr5JeG93aA)
 
 ## Result/Output (Screenshot of the output)
 
