@@ -402,7 +402,7 @@ curl -X DELETE http://localhost:8080/api/products/1
 ```
 
 ## Link for Docker Image
-[Docker Hub - telegram-bot](https://hub.docker.com/r/edison0208/ecommerce-app)
+[Docker Hub - ecommerce-app](https://hub.docker.com/r/edison0208/ecommerce-app)
 
 ## Instructions on how to run the Docker.
 1. Open the Docker Desktop
