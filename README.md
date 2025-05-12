@@ -27,6 +27,46 @@
 
 1. **Introduction**
 
+QurbaMart is a Spring Boot-based e-commerce platform designed for Qurba Food Industries, a Malaysian Bumiputera-owned company established in 2007, specializing in food products. It addresses the need for an efficient online system to manage users, roles, products, and categories through a RESTful API with CRUD functionality.
+---
+
+2. **Background**
+
+Founded in 2007 and registered as Qurba Food Manufacturing Sdn. Bhd. in 2011, Qurba Food Industries operates from Jitra, Kedah, producing beverages, snacks, and desserts. Traditionally reliant on physical sales, the company faces challenges in scalability and customer reach due to the lack of a digital platform, necessitating an e-commerce solution.
+---
+
+3. **Problem Statement**
+
+Manual processes for product management, user administration, and sales are time-consuming and error-prone, limiting Qurba Food Industries’ ability to reach broader markets, manage inventory, and streamline operations. A robust digital platform is needed to enhance efficiency and competitiveness.
+
+---
+
+4. **Main Objective**
+
+Develop a Spring Boot-based e-commerce platform to enable efficient management of users, roles, products, and categories.
+
+---
+
+5. **Methodology**
+
+The development involved designing a relational database (MySQL for production, H2 for development) with user, role, product, and category tables. A layered Spring Boot application (model, repository, service, controller) was built using Maven, with Git and GitHub for version control. Docker containerized the application and database, hosted on Docker Hub, and deployed via Docker Compose. Postman tested CRUD operations.
+
+---
+
+6. **Result**
+
+QurbaMart delivers a functional REST API at http://localhost:8080, a relational database, and containerized deployment. Postman tests confirmed successful CRUD operations, with all code hosted on GitHub.
+
+---
+
+7. **Conclusion**
+
+QurbaMart streamlines operations, enhancing efficiency and customer reach. Future enhancements include authentication and payment integration, positioning Qurba Food Industries for e-commerce growth.
+
+## Abstract (in 300 words)
+
+1. **Introduction**
+
    **QurbaMart** is a Spring Boot-based e-commerce platform designed to digitize the operations of **Qurba Food Industries**, a Malaysian Bumiputera-owned company established in 2007, specializing in food products. The application addresses the need for an efficient online system to manage users, roles, products, and categories, enabling seamless CRUD operations through a RESTful API.
 
    The backend leverages **Spring Boot** with **Spring Data JPA** for data persistence, supporting **MySQL** for production and **H2** for development. The database schema includes tables for users, roles, products, and categories, with sample data to simulate real-world scenarios. **Git** and **GitHub** ensure version control, while **Maven** manages dependencies.
