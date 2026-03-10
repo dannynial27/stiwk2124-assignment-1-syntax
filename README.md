@@ -2,10 +2,6 @@
 ## Requirements for Assignment #1
 [Read the instruction](https://github.com/STIWK2124-A242/class-activity-stiwk2124/blob/main/Assignment-1.md)
 
-## WhatsApp Group
-
-[Join WhatsApp Group](https://chat.whatsapp.com/Jo1tFcRylPiKKuvdmfthuh)
-
 ## Group Info:
 1. Matric Number & Name & Photo & Phone Number
 1. Mention who the leader is.
@@ -13,13 +9,13 @@
 
 |    |                          NAME                            |           MATRIC NUMBER          |              MEMBER DESCRIPTION | PHONE NUMBER          | PICTURE           |
 | -- | -------------------------------------------------------- | -------------------------------- | ------------------------------ | --------------------- | ----------------- |
-| 1. | <div align="center">KU HAZWAN BIN KU IZHAM</div>      | <div align="center">289889</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 19 - 8442357</div> | <div align="center"><img src="https://github.com/user-attachments/assets/d04db7fe-e7dd-4228-bb19-3ac3ad2394c5" alt="KU HAZWAN BIN KU IZHAM (289889)" width="100px"></div> |
-| 2. | <div align="center">NILAM MUHAMMAD AZRILLUQMAN BIN JAAFAR</div>      | <div align="center">296015</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 19 -7273725</div> | <div align="center"><img src="https://github.com/user-attachments/assets/79e487f0-2638-4d94-8a0f-6a65a3e761dc" alt="NILAM MUHAMMAD AZRILLUQMAN BIN JAAFAR (296015)" width="100px"></div> |
-| 3. | <div align="center">HANA CAROLINA ISMAIL</div>      | <div align="center">289843</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 11 - 37971062</div> | <div align="center"><img src="https://github.com/user-attachments/assets/bed8b5c1-45c0-4d49-a6c5-657b8174c5db" alt="HANA CAROLINA ISMAIL (289843)" width="100px"></div> 
-| 4. | <div align="center">ISKANDAR AZIMAN BIN SAIPUL AZWAN</div>      | <div align="center">284425</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 17-9503627</div> | <div align="center"><img src="https://github.com/user-attachments/assets/5561bd75-6693-49ce-a5c4-03fae002d8da"  alt="ISKANDAR AZIMAN BIN SAIPUL AZWAN (284425)" width="100px"></div> |
-| 5. | <div align="center">LIM JUN WEI</div>      | <div align="center">293142</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 10 - 709 3853</div> | <div align="center"><img src="https://github.com/user-attachments/assets/b42499b1-c04f-462b-a3f6-cac57ec04a7c" alt="LIM JUN WEI ()" width="100px"></div> |
+| 1. | <div align="center">KU HAZWAN BIN KU IZHAM</div>      | <div align="center">289889</div> | <div align="center">MEMBER</div> | <div align="center"></div> | <div align="center"><img src="" alt="KU HAZWAN BIN KU IZHAM (289889)" width="100px"></div> |
+| 2. | <div align="center">NILAM MUHAMMAD AZRILLUQMAN BIN JAAFAR</div>      | <div align="center">296015</div> | <div align="center">MEMBER</div> | <div align="center"></div> | <div align="center"><img src="" alt="NILAM MUHAMMAD AZRILLUQMAN BIN JAAFAR (296015)" width="100px"></div> |
+| 3. | <div align="center">HANA CAROLINA ISMAIL</div>      | <div align="center">289843</div> | <div align="center">MEMBER</div> | <div align="center"></div> | <div align="center"><img src="https://github.com/user-attachments/assets/bed8b5c1-45c0-4d49-a6c5-657b8174c5db" alt="HANA CAROLINA ISMAIL (289843)" width="100px"></div> 
+| 4. | <div align="center">ISKANDAR AZIMAN BIN SAIPUL AZWAN</div>      | <div align="center">284425</div> | <div align="center">MEMBER</div> | <div align="center"></div> | <div align="center"><img src=""  alt="ISKANDAR AZIMAN BIN SAIPUL AZWAN (284425)" width="100px"></div> |
+| 5. | <div align="center">LIM JUN WEI</div>      | <div align="center">293142</div> | <div align="center">MEMBER</div> | <div align="center"></div> | <div align="center"><img src="" alt="LIM JUN WEI ()" width="100px"></div> |
 | 6. | <div align="center">MUHAMMAD DANIAL BIN MOHD FARIS</div> | <div align="center">294692</div> | <div align="center">LEADER</div> | <div align="center">(+60) 12 - 451 6452</div> | <div align="center"><img src="https://github.com/user-attachments/assets/13415d47-f128-427e-842d-fc8b3a27a858" alt="MUHAMMAD DANIAL BIN MOHD FARIS (294692)" width="100px"></div> |
-| 7. | <div align="center">SHARWIN A/L PARAMESWARAN</div>       | <div align="center">295026</div> | <div align="center">MEMBER</div> | <div align="center">(+60) 12 - 647 1786</div> | <div align="center"><img src="https://github.com/user-attachments/assets/8ef08b3b-4ea3-4b53-88fb-fcddd9eb182a" alt="SHARWIN A/L PARAMESWARAN (295026)" width="100px"></div> |
+| 7. | <div align="center">SHARWIN A/L PARAMESWARAN</div>       | <div align="center">295026</div> | <div align="center">MEMBER</div> | <div align="center"></div> | <div align="center"><img src="" alt="SHARWIN A/L PARAMESWARAN (295026)" width="100px"></div> |
 
 ## Title of your application (a unique title) : QurbaMart : E-commerce Platform for Qurba Food Industries
 
